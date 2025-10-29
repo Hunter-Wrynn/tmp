@@ -1,1 +1,0 @@
-/mnt/local/VLMEvalKit/./outputs/GeminiFULL/Mathvista/GeminiFlash2-5/T20251028_Ge1a3b4a6/GeminiFlash2-5_MathVista_MINI_gpt-4o-mini.pkl

@@ -1,1 +1,0 @@
-/mnt/local/VLMEvalKit/./outputs/SEEDBench2_Plus/gpt-5-2025-08-07/T20251028_Ge1a3b4a6/gpt-5-2025-08-07_SEEDBench2_Plus_openai_result.pkl
